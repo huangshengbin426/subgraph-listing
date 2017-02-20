@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/yxshao/!svn/ver/1816/PAGE/branches/subgraphmatching
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/yxshao/!svn/ver/740/PAGE/branches/subgraphmatching/NOTICE
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/yxshao/!svn/ver/740/PAGE/branches/subgraphmatching/.project
+END
+license-header.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/yxshao/!svn/ver/740/PAGE/branches/subgraphmatching/license-header.txt
+END
+DataSpecOnHDFS
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/yxshao/!svn/ver/1108/PAGE/branches/subgraphmatching/DataSpecOnHDFS
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/yxshao/!svn/ver/740/PAGE/branches/subgraphmatching/CHANGELOG
+END
+findbugs-exclude.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/yxshao/!svn/ver/740/PAGE/branches/subgraphmatching/findbugs-exclude.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/yxshao/!svn/ver/781/PAGE/branches/subgraphmatching/pom.xml
+END
+BitMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxshao/!svn/ver/678/giraph-alg/giraph-examples/src/main/java/org/apache/giraph/tools/utils/BitMap.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/yxshao/!svn/ver/740/PAGE/branches/subgraphmatching/README
+END
+checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/yxshao/!svn/ver/740/PAGE/branches/subgraphmatching/checkstyle.xml
+END
+CODE_CONVENTIONS
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/yxshao/!svn/ver/740/PAGE/branches/subgraphmatching/CODE_CONVENTIONS
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/yxshao/!svn/ver/740/PAGE/branches/subgraphmatching/LICENSE.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/yxshao/!svn/ver/740/PAGE/branches/subgraphmatching/.classpath
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/yxshao/!svn/ver/740/PAGE/branches/subgraphmatching/.gitignore
+END
+.reviewboardrc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/yxshao/!svn/ver/740/PAGE/branches/subgraphmatching/.reviewboardrc
+END
